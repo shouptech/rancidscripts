@@ -7,7 +7,7 @@ https://bitbucket.org/aquerubin/rancid-vyatta
 Includes:
 
 * uelogin - basic login script
-* vrancid - the Rancid wrapper
+* uerancid - the Rancid wrapper
 
 To integrate into your RANCID install:
 
